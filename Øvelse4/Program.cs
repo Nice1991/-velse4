@@ -10,8 +10,12 @@ namespace Øvelse4
     {
         static void Main(string[] args)
         {
+Console.WriteLine("Hello Master");
+
             Console.WriteLine("Hello Branch");
             Console.WriteLine("Dette er første branch");
+            Console.WriteLine("Hello Nicklas");
+            Console.WriteLine("Dette er anden branch");
             Console.ReadKey();
         }
 
