@@ -16,6 +16,7 @@ Console.WriteLine("Hello Master");
             Console.WriteLine("Dette er første branch");
             Console.WriteLine("Hello Nicklas");
             Console.WriteLine("Dette er anden branch");
+			Console.WriteLine("Sjov test");
             Console.ReadKey();
         }
 
