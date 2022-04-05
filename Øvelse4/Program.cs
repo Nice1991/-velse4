@@ -11,6 +11,8 @@ namespace Øvelse4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Master");
+            Console.WriteLine("Hello Nicklas");
+            Console.WriteLine("Dette er anden branch");
         }
     }
 }
